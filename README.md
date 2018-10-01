@@ -1,2 +1,2 @@
-# JavaJa
+# JavaJam
 JavaJam Coffee House
